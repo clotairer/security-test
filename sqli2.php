@@ -1,6 +1,6 @@
 <?php
 
-require 'classes/Tools.php';
+require_once 'classes/Tools.php';
 
 $queryStr = "SELECT * 
               FROM table
